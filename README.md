@@ -2,6 +2,9 @@
 
 > Simple to do list desktop application with Electronjs.
 
+## screenshot
+![screnshot](https://user-images.githubusercontent.com/47576444/141223700-02ebf32f-4165-4435-aee3-cf8de638a159.PNG)
+
 ## Installation
 
 Install the dependencies
